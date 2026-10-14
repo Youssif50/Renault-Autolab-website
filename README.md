@@ -4,7 +4,7 @@ A responsive multi-page website prototype for a fictional independent Renault se
 
 ## Live demo
 
-Not deployed yet. The intended GitHub Pages URL will be `https://Youssif50.github.io/renault-autolab/` once the public repository and Pages deployment are configured.
+Not deployed yet. The intended GitHub Pages URL is `https://youssif50.github.io/Renault-Autolab-website/` after Pages is enabled for this repository.
 
 ## Features
 
@@ -21,10 +21,6 @@ HTML5, CSS3, Bootstrap 5.3, Bootstrap Icons, and vanilla JavaScript. Bootstrap, 
 ## Local preview
 
 Open `index.html` directly in a current browser, or serve this directory using a static file server. The site is static and works without a backend. An internet connection is needed for CDN styling/icons/fonts and remote photography.
-
-## Run locally
-
-Open `index.html` in a modern browser, or serve this directory with a simple static server. No build step or package installation is needed. Bootstrap, Bootstrap Icons, Google Fonts, and photo fallbacks use CDN/image URLs, so an internet connection improves their appearance; the content remains laid out if those resources are unavailable.
 
 ## Pages and files
 
